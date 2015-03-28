@@ -1,6 +1,6 @@
 {
   "name": "typographic-ellipsis",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace three periods with an ellipsis character",
   "main": "index.es5.js",
   "scripts": {
