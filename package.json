@@ -4,8 +4,9 @@
   "description": "Replace three periods with an ellipsis character",
   "main": "index.es5.js",
   "scripts": {
-    "precoveralls": "istanbul cover _mocha -- --require babel/register",
-    "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "coverage": "istanbul cover _mocha -- --require babel/register",
+    "precoveralls": "npm run coverage",
+    "coveralls": "coveralls < coverage/lcov.info",
     "pretest": "jscs --esnext -p airbnb index.js",
     "test": "mocha --require babel/register",
     "precommit": "npm test",
