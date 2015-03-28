@@ -37,16 +37,16 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [bth]: http://practicaltypography.com/typewriter-habits.html
 
 [npm-url]: https://npmjs.org/package/typographic-ellipsis
-[npm-image]: http://img.shields.io/npm/v/typographic-ellipsis.svg?style=flat
+[npm-image]: http://img.shields.io/npm/v/typographic-ellipsis.svg
 
 [travis-url]: https://travis-ci.org/matmuchrapna/typographic-ellipsis
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-ellipsis.svg?style=flat
+[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-ellipsis.svg
 
 [coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-ellipsis
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-ellipsis.svg?style=flat
+[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-ellipsis.svg
+
 [depstat-url]: https://david-dm.org/matmuchrapna/typographic-ellipsis
-									https://david-dm.org/babel/babel-library-boilerplate.svg
-[depstat-image]: http://img.shields.io/david/matmuchrapna/typographic-ellipsis.svg?style=flat
+[depstat-image]: https://david-dm.org/matmuchrapna/typographic-ellipsis.svg
 
 [depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-ellipsis
-[depstat-dev-image]: http://img.shields.io/david/dev/matmuchrapna/typographic-ellipsis.svg?style=flat
+[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-ellipsis/dev-status.svg
