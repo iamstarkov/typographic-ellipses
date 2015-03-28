@@ -7,7 +7,7 @@
     "coverage": "istanbul cover _mocha -- --require babel/register",
     "precoveralls": "npm run coverage",
     "coveralls": "coveralls < coverage/lcov.info",
-    "pretest": "jscs --esnext -p airbnb index.js",
+    "pretest": "jscs --esnext -p airbnb *.js",
     "test": "mocha --require babel/register",
     "precommit": "npm test",
     "prepush": "npm test",
