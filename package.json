@@ -1,7 +1,7 @@
 {
-  "name": "typographic-ellipsis",
+  "name": "typographic-ellipses",
   "version": "1.0.2",
-  "description": "Replace three periods with an ellipsis character",
+  "description": "Avoid using periods and spaces",
   "main": "index.es5.js",
   "scripts": {
     "coverage": "istanbul cover _mocha -- --require babel/register",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matmuchrapna/typographic-ellipsis"
+    "url": "https://github.com/matmuchrapna/typographic-ellipses"
   },
   "keywords": [
     "typographic",
@@ -28,9 +28,9 @@
   "author": "Vladimir Starkov <matmuchrapna@gmail.com> (http://vstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matmuchrapna/typographic-ellipsis/issues"
+    "url": "https://github.com/matmuchrapna/typographic-ellipses/issues"
   },
-  "homepage": "https://github.com/matmuchrapna/typographic-ellipsis",
+  "homepage": "https://github.com/matmuchrapna/typographic-ellipses",
   "devDependencies": {
     "babel": "^4.7.16",
     "coveralls": "^2.11.2",

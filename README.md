@@ -1,4 +1,4 @@
-# typographic-ellipsis
+# typographic-ellipses
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -6,7 +6,7 @@
 [![Dependency Status][depstat-image]][depstat-url]
 [![DevDependency Status][depstat-dev-image]][depstat-dev-url]
 
-> Replace three periods with an ellipsis character
+> Avoid using periods and spaces
 
 Micro module to help eliminate one of the [bad typewriter habits][bth].
 
@@ -23,9 +23,9 @@ npm install --save typograhic-ellipsis
 Main purpose for this module is replace three periods with correct ellipsis
 character.
 ```js
-var ellipsis = require('typographic-ellipsis');
+var ellipses = require('typographic-ellipses');
 
-ellipsis('foo...bar'); // foo…bar
+ellipses('foo...bar'); // foo…bar
 ```
 
 
@@ -36,17 +36,17 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 
 [bth]: http://practicaltypography.com/typewriter-habits.html
 
-[npm-url]: https://npmjs.org/package/typographic-ellipsis
-[npm-image]: http://img.shields.io/npm/v/typographic-ellipsis.svg
+[npm-url]: https://npmjs.org/package/typographic-ellipses
+[npm-image]: http://img.shields.io/npm/v/typographic-ellipses.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-ellipsis
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-ellipsis.svg
+[travis-url]: https://travis-ci.org/matmuchrapna/typographic-ellipses
+[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-ellipses.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-ellipsis
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-ellipsis.svg
+[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-ellipses
+[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-ellipses.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-ellipsis
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-ellipsis.svg
+[depstat-url]: https://david-dm.org/matmuchrapna/typographic-ellipses
+[depstat-image]: https://david-dm.org/matmuchrapna/typographic-ellipses.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-ellipsis
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-ellipsis/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-ellipses
+[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-ellipses/dev-status.svg
