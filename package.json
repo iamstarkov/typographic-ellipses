@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/matmuchrapna/typographic-ellipses",
   "devDependencies": {
-    "babel": "^4.7.16",
+    "babel": "^5.0.0",
     "coveralls": "^2.11.2",
     "husky": "^0.7.0",
     "istanbul": "^0.3.11",
