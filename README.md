@@ -20,8 +20,6 @@ npm install --save typograhic-ellipsis
 
 ## Usage
 
-Main purpose for this module is replace three periods with correct ellipsis
-character.
 ```js
 var ellipses = require('typographic-ellipses');
 
