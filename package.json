@@ -13,7 +13,7 @@
     "tdd": "mocha --require babel/register --watch",
     "precommit": "npm test",
     "transpile": "babel index.js > index.es5.js",
-    "prepublish": "git push && git push --tags && npm run transpile",
+    "prepublish": "npm run transpile",
     "postpublish": "rm *.es5.js"
   },
   "repository": {
