@@ -1,1 +1,1 @@
-export default (input)=> input.replace(/\.\.\./gim, '…');
+export default (input)=> input.replace(/\.{3}/gim, '…');
