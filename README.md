@@ -6,9 +6,9 @@
 [![Dependency Status][depstat-image]][depstat-url]
 [![DevDependency Status][depstat-dev-image]][depstat-dev-url]
 
-> Avoid using periods and spaces
+> [Avoid using periods and spaces][rtfm]
 
-Micro module to help eliminate one of the [bad typewriter habits][bth].
+Micro module to help eliminate one of the [bad typewriter habits][habits].
 
 
 ## Install
@@ -33,8 +33,8 @@ ellipses('foo...bar'); // foo…bar
 
 MIT © [Vladimir Starkov](http://vstarkov.com/)
 
-
-[bth]: http://practicaltypography.com/typewriter-habits.html
+[rtfm]: http://practicaltypography.com/ellipses.html
+[habits]: http://practicaltypography.com/typewriter-habits.html
 
 [npm-url]: https://npmjs.org/package/typographic-ellipses
 [npm-image]: http://img.shields.io/npm/v/typographic-ellipses.svg
