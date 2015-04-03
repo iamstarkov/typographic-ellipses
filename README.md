@@ -14,7 +14,7 @@ Micro module to help eliminate one of the [bad typewriter habits][habits].
 ## Install
 
 ```sh
-npm install --save typograhic-ellipsis
+npm install --save typographic-ellipses
 ```
 
 
