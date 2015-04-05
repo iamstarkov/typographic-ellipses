@@ -27,6 +27,13 @@ ellipses('foo...bar'); // foo…bar
 ```
 
 
+## Real world examples
+
+Check complex usage with real world examples in [typography playground][playground].
+
+[playground]: https://github.com/matmuchrapna/typographic-playground
+
+
 ## License
 
 MIT © [Vladimir Starkov](http://vstarkov.com/)
