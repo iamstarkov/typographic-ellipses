@@ -1,6 +1,6 @@
 {
   "name": "typographic-ellipses",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Avoid using periods and spaces",
   "main": "index.es5.js",
   "scripts": {
