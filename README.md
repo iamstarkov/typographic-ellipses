@@ -26,17 +26,9 @@ var ellipses = require('typographic-ellipses');
 ellipses('foo...bar'); // foo…bar
 ```
 
-
-## Real world examples
-
-Check complex usage with real world examples in [typography playground][playground].
-
-[playground]: https://github.com/matmuchrapna/typographic-playground
-
-
 ## License
 
-MIT © [Vladimir Starkov](http://vstarkov.com/)
+MIT © [Vladimir Starkov](http://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/ellipses.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
@@ -44,14 +36,14 @@ MIT © [Vladimir Starkov](http://vstarkov.com/)
 [npm-url]: https://npmjs.org/package/typographic-ellipses
 [npm-image]: http://img.shields.io/npm/v/typographic-ellipses.svg
 
-[travis-url]: https://travis-ci.org/matmuchrapna/typographic-ellipses
-[travis-image]: http://img.shields.io/travis/matmuchrapna/typographic-ellipses.svg
+[travis-url]: https://travis-ci.org/iamstarkov/typographic-ellipses
+[travis-image]: http://img.shields.io/travis/iamstarkov/typographic-ellipses.svg
 
-[coveralls-url]: https://coveralls.io/r/matmuchrapna/typographic-ellipses
-[coveralls-image]: http://img.shields.io/coveralls/matmuchrapna/typographic-ellipses.svg
+[coveralls-url]: https://coveralls.io/r/iamstarkov/typographic-ellipses
+[coveralls-image]: http://img.shields.io/coveralls/iamstarkov/typographic-ellipses.svg
 
-[depstat-url]: https://david-dm.org/matmuchrapna/typographic-ellipses
-[depstat-image]: https://david-dm.org/matmuchrapna/typographic-ellipses.svg
+[depstat-url]: https://david-dm.org/iamstarkov/typographic-ellipses
+[depstat-image]: https://david-dm.org/iamstarkov/typographic-ellipses.svg
 
-[depstat-dev-url]: https://david-dm.org/matmuchrapna/typographic-ellipses
-[depstat-dev-image]: https://david-dm.org/matmuchrapna/typographic-ellipses/dev-status.svg
+[depstat-dev-url]: https://david-dm.org/iamstarkov/typographic-ellipses
+[depstat-dev-image]: https://david-dm.org/iamstarkov/typographic-ellipses/dev-status.svg
