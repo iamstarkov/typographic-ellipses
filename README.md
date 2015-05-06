@@ -28,7 +28,7 @@ ellipses('foo...bar'); // foo…bar
 
 ## License
 
-MIT © [Vladimir Starkov](http://iamstarkov.com/)
+MIT © [Vladimir Starkov](https://iamstarkov.com/)
 
 [rtfm]: http://practicaltypography.com/ellipses.html
 [habits]: http://practicaltypography.com/typewriter-habits.html
